@@ -1,6 +1,7 @@
 # BlackJack-Express
-A simple BlackJack game examples written in Python using various libraries (currently, CodeSkulptor SimpleGUI only)
+A simple BlackJack game examples written in Python using CodeSkulptor SimpleGUI
 
-### How to download or run the game online
-#### CodeSkulptor (online code editor)
-Go to https://py3.codeskulptor.org/#user303_oYepc7GhpROvna1.py and click "Run" on the left side.
+### Usage:
+There are two ways to run the app:
+1) Go to https://py3.codeskulptor.org/#user303_oYepc7GhpROvna1.py and click "Run" on the left side.
+2) Open __main__.py and click "Run" on the left side in the opened browser window.
